@@ -11,15 +11,32 @@
 5. práva a povinnosti zaměstnavatele (K)
 6. kahoot (M)
 
+**Poznámky :**
+
+- Pište srozumitelně a bez chyb, ne jako prasata.
+- Pokud něco není z vaší hlavy, ocitujte to:
+  ```
+  Tráva je zelená.[^1]
+
+  [^1]: Wikipedie
+  ```
+- Otázky do Kahootu případně pište do sekce "Kahoot".
+
 ## O pracovním právu obecně
 
-Právo tradičně rozdělujeme na veřejné a soukromé. Pracovní právo se nachází na pomezí -- řeší vztahy mezi zaměstnanci, zaměstnavateli, jejich zástupci a také orgány.
+Právo tradičně rozdělujeme na veřejné a soukromé. Pracovní právo se nachází na
+pomezí -- řeší vztahy mezi zaměstnanci, zaměstnavateli, jejich zástupci a také
+orgány.
 
-Pracovně právní smlouva musí být vždy písemná. Povinnými stanovy jsou náplň práce, místo výkonu a datum nástupu. Pokud je sjednána zkušební doba, nesmí být delší než 3 měsíce, popř. 6 měsíců pro vedoucí pozice.
+Pracovně právní smlouva musí být vždy písemná. Povinnými stanovy jsou náplň
+práce, místo výkonu a datum nástupu. Pokud je sjednána zkušební doba, nesmí být
+delší než 3 měsíce, popř. 6 měsíců pro vedoucí pozice.
 
-Podepsání smlouvy je dobrovolné. Smlouvu může podepsat mladistvý od 15 let, v případě vedoucích pozic je hranice vyšší -- 18 let.
+Podepsání smlouvy je dobrovolné. Smlouvu může podepsat mladistvý od 15 let, v
+případě vedoucích pozic je hranice vyšší -- 18 let.
 
-Hlavními prameny pracovního práva v České republice jsou zákoník práce, zákon o kolektivním vyjednávání a zákon o zaměstnanosti.[^1]
+Hlavními prameny pracovního práva v České republice jsou zákoník práce, zákon o
+kolektivním vyjednávání a zákon o zaměstnanosti.[^1]
 
 [^1]: https://cs.wikipedia.org/wiki/Pracovn%C3%AD_pr%C3%A1vo
 
