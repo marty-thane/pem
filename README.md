@@ -20,6 +20,7 @@
 
   [^1]: Wikipedie
   ```
+- Vždycky si vytvořte vlastní branch, na `master` se nešahá.
 - Otázky do Kahootu případně pište do sekce "Kahoot".
 
 ## O pracovním právu obecně
