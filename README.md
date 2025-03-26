@@ -66,3 +66,11 @@ uzavřít nejdéle na 52 týdnů.[^4]
 ## Práva a povinnosti zaměstnavatele
 
 ## Kahoot
+
+- Do jaké kategorie spadá pracovní právo? smíšené právo
+- Mohu pracovně právní smlouvu podepsat elektronicky? ne
+- Který z uvedených údajů nepatří mezi povinné stanovy? zkušební doba
+- Od jaké hranice se daní příjem z DPP? 11500 Kč/měsíc
+- Pracuji u dvou zaměstanavatelů na DPP, u každého jsem si tento vydělal 7000 Kč. Musím danit? ne
+- Při ukončení práce na dohodu nemusím udat důvod. ano
+- Mám jako zaměstnanec na dohodu nárok na dovolenou? ano
