@@ -43,7 +43,7 @@ kolektivním vyjednávání a zákon o zaměstnanosti.[^1]
 
 ## Pracovní poměr
 
-Nejčastější pracovněprávní vztah ustanovený § 33 zákoníku práce.
+Nejčastější pracovněprávní vztah, ustanovený § 33 zákoníku práce.
 
 ### Druhy pracovních poměrů
 #### Hlavní pracovní poměr (HPP) – práce na plný úvazek (full-time) [^2]
@@ -59,10 +59,11 @@ Pracovní týdenní doba je zkrácena na 37,5 hodiny:
 Zákon nezakazuje mít dva hlavní pracovní poměry. Pokud jde o práci v obdobném oboru, je potřeba souhlas obou zaměstnavatelů. V pracovní smlouvě však může být stanovena konkurenční doložka omezující možnosti práce pro konkurenční firmy. [^3]
 
 **Zkrácený (částěčný) úvazek** [^4]
+
 Zahrnuje různé varianty snížení plného úvazku (např. poloviční, třetinový, čtvrtinový apod.). Mzda odpovídá kratší pracovní době.
 Zaměstnanec má stejná práva i povinnosti jako při plném úvazku.
 
-#### Vedlejší [^2]
+#### Vedlejší pracovní poměr [^2]
 Pracovněprávní vztah uzavřený vedle hlavní pracovní činnosti.
 
 Za hlavní pracovní činnost se považuje:
@@ -86,6 +87,7 @@ Pracovní poměr vzniká:
 * jmenováním do funkce.
 
 **Pracovní smlouva**
+
 Musí být v písemné formě. 
 Mezi povinnou součást smlouvy patří dohoda o:
 * druhu práce,
@@ -104,11 +106,12 @@ Musí být sjednána písemně, nejpozději v den nástupu do práce (v den jmen
 Maximální délka jsou 3 měsíce po sobě jdoucí ode dne vzniku pracovního poměru, u vedoucího zaměstnance až 6 měsíců. U pracovních poměrů na dobu určitou nesmí zkušební doba přesáhnout polovinu sjednané doby trvání poměru.
 
 Po dohodě obou stran může dojít ke zkrácení zkušební doby. 
-Zkušební doba se prodlužuje pouze v případě celodenních překážek v práci či při čerpávní celodenní dovolené.
+Zkušební doba se prodlužuje pouze v případě celodenních překážek v práci či při čerpání celodenní dovolené.
 
 V průběhu zkušební doby může být pracovní poměr zrušen jak ze strany zaměstnance, tak i zaměstnavatele, a to i bez udání důvodu. Zaměstnavatel ale nesmí pracovní poměr zrušit v době prvních 14 kalendářních dní dočasné pracovní neschopnosti.
 
 **Trvání pracovního poměru**
+
 Pracovní poměr může být sjednán na:
 * dobu neurčitou – doba trvání není omezena,
 * dobu určitou – omezení doby trvání.
@@ -116,7 +119,7 @@ Pracovní poměr může být sjednán na:
 Pokud není ve smlouvě výslovně uvedeno, že je pracovní poměr sjednán na dobu určitou, jedná se o pracovní poměr na dobu neurčitou.
 
 ### Změna pracovního poměru [^6] [^8]
-Změna pracovní smlouvy je možná dohodou obou stran (zaměstnance i zaměstnavatele) a to písemnou fromou. V určitých případech může dojít k jednostrannému právnímu jednání zaměstnavatele po předchozím informování zaměstnance.
+Změna pracovní smlouvy je možná dohodou obou stran (dohoda zaměstnance i zaměstnavatele) a to písemnou fromou. V určitých případech může dojít k jednostrannému právnímu jednání zaměstnavatele po předchozím informování zaměstnance.
 
 Za změnu v pracovním poměru se považuje:
 * jmenovaní na vedoucí pozici (až po vzniku pracovního poměru),
@@ -126,19 +129,23 @@ Za změnu v pracovním poměru se považuje:
 * dočasné přidělení (k jinému zaměstnavateli)
 
 **Jmenování**
+
 Prakticky se jedná  o jednostrannou změnu druhu práce ze strany zaměstnavatele, zde však nemusí být písemný souhlas zaměstnance. 
 
-Po odvolání z vedoucího pracovního místa se zaměstnanec nevrací na původně sjednané místo, zaměstnavatel mu ale ze zákona musí nabídnout jinou vhodnou práci (odpovídající kvalifikaci, zdravotnímu stavu)
+Po odvolání z vedoucího pracovního místa se zaměstnanec nevrací na původně sjednané místo, zaměstnavatel mu ale ze zákona musí nabídnout jinou vhodnou práci (odpovídající kvalifikaci, zdravotnímu stavu).
 
 **Převedení zaměstnance na jinou práci**
+
 Z důvodů zdravotních, trestněprávnícha a pracovněprávních lze tak učinit bez souhlasu zaměstnance. Z důvodu objektivní překážky už souhlas potřeba je. Zaměstnavatel však musí zohledňovat zdravotní stav, kvalifikaci a schopnosti zaměstnance. 
 
 **Přeložení zaměstnance**
+
 Zaměstnanec musí vyjádřit souhlas jak se změnou místa výkonu práce, tak  i s dobou, na kterou bude přeložen.
 
 Po opadnutí důvodů přeložení/převedení je zaměstnavatel povinen umožnit zaměstnanci návrat na pracovní místo dle pracovní smlouvy.
 
 **Pracovní cesta**
+
 Jedná se o vyslání zaměstnance na nezbytně nutnou dobu k výkonu práce mimo místo sjednané v pracovní smlouvě. To lze jedině po dohodě se zaměstnancem a je určena délka pracovní cesty. 
 
 Zákon vymezuje skupinu zaměstnanců, kteří nemohou být vysláni mimo obvod obce. Jedná se o:
@@ -170,8 +177,9 @@ Musí být v písemné formě a doručena druhému účastníkovi.
 Doručenou výpověď lze odvolat pouze se souhlasem druhého účastníka (opět nutné písemně).
 
 **Výpověď ze strany zaměstnavatele**
+
 Zaměstnavatel může dát zaměstnanci výpověď jen z důvodů uvedených v § 52 zákoníku práce. 
-Jedná se například o:
+Jedná se například o tyto důvody:
 * zaměstnavatel se ruší či přemisťuje,
 * zaměstnanec je nadbytečný,
 * porušení pracovněprávních povinností zaměstnancem,
@@ -180,13 +188,15 @@ Jedná se například o:
 Nemůže tak učinit, pokud se zaměstnanec nachází v ochranné době (např. je uznán dočasně práce neschopným, čerpá mateřskou dovolenou, rodičovskou dovolenou apod. - viz § 53 a 54 zákoníku práce).
 
 **Výpověď ze strany zaměstnance**
+
 Zaměstnanec může dát výpověď z jakéhokoliv důvodu nebo bez udání důvodu.
 
 **Výpovědní doba**
+
 Výpovědní doba činí 2 měsíce, uplynutím této doby pracovní poměr končí.
 Počíná prvním dnem kalendářního měsíce následujícího po doručení výpovědi a končí uplynutím posledního dne příslušného kalendářního měsíce. (Příklad: zaměstnanec dal výpověď 3. 4. 2020, výpovědní doba začíná běžet 1. 5. 2020 a končí 30. 6. 2020, tj. v tento den končí i pracovní poměr.)
 
-#### Okamžité zdrušení
+#### Okamžité zrušení
 K tomuto výjimečnému způsobu může zaměstnanec či zaměstnavatel přistoupit pouze z důvodů vymezených v § 55 a 56 zákoníku práce.
 
 Například:
@@ -209,6 +219,7 @@ Pracovní poměr končí dnem doručení zrušení.
 
 ## DPP, DPČ
 **Více pracovních smluv / dohod o práci konané mimo pracovní poměr**
+
 Zaměstnanec nesmí u téhož zaměstnavatele v dalším pracovněprávním vztahu vykonávat práce, které jsou stejně druhově vymezeny. (Tzn. Pro jeden druh práce lze uzavřít jen jeden pracovní vztah.) [^10]
 
 [^10]: https://www.mesec.cz/clanky/kolik-muzeete-mit-jednoho-zamestnavatele-pracovnich-smluv-nebo-dohod-o-praci-konane-mimo-pracovni-pomer/
