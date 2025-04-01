@@ -45,9 +45,9 @@ kolektivním vyjednávání a zákon o zaměstnanosti.[^1]
 
 ## DPP, DPČ
 
-## Práva a povinnosti
+## Práva a povinnosti zaměstnance
 
-Téma **práv a povinností zaměstnance** je základním stavebním kamenem každého pracovního vztahu. Znalost toho, na co máme jako zaměstnanci nárok, a co se naopak od nás očekává, může předejít mnoha nedorozuměním, konfliktům, nebo dokonce právním sporům. Tento přehled vychází výhradně z platných českých právních předpisů a oficiálních webových zdrojů, přičemž se zaměříme především na praktické informace vycházející ze zákoníku práce a souvisejících zákonů.
+Téma **práv a povinností zaměstnance** je základním stavebním kamenem každého pracovního vztahu. Znalost toho, na co máme jako zaměstnanci nárok, a co se naopak od nás očekává, může předejít mnoha nedorozuměním, konfliktům, nebo dokonce právním sporům.
 
 ## Úvod
 
@@ -59,8 +59,6 @@ Pracovní poměr je právní vztah mezi zaměstnancem a zaměstnavatelem, ve kte
 - zákonem č. 251/2005 Sb., o inspekci práce [[4](#4)],
 - Listinou základních práv a svobod [[5](#5)].
 
-Každý zaměstnanec má nejen svá práva, ale i povinnosti. Cílem této prezentace je poskytnout jasný přehled o obou stranách této rovnice a ukázat, proč je důležité je znát a respektovat.
-
 ## Práva zaměstnance
 
 Podle § 1a a § 16 zákoníku práce má každý zaměstnanec právo na spravedlivé pracovní podmínky, rovné zacházení a ochranu před diskriminací [[1](#1)].
@@ -68,64 +66,112 @@ Podle § 1a a § 16 zákoníku práce má každý zaměstnanec právo na spraved
 ### 1. Právo na mzdu za vykonanou práci
 Zaměstnanec má dle § 109–111 zákoníku práce nárok na spravedlivou odměnu, která nesmí být nižší než minimální mzda [[1](#1)].
 
+**Příklad:** Pokud pracujete na plný úvazek, musíte dostat alespoň minimální mzdu – aktuálně 18 900 Kč měsíčně.
+
 ### 2. Právo na bezpečné pracovní prostředí
 Zaměstnavatel má dle § 101–108 povinnost zajistit bezpečnost a ochranu zdraví při práci [[1](#1)].
+
+**Příklad:** Pokud pracujete ve skladu, musíte dostat ochranné rukavice a projít školením BOZP.
 
 ### 3. Zákaz diskriminace a rovné zacházení
 Diskriminace na základě pohlaví, věku, rasy, zdravotního stavu nebo víry je zakázána zákoníkem práce i antidiskriminačním zákonem [[1](#1)][[6](#6)].
 
+**Příklad:** Zaměstnavatel nesmí dát mladším zaměstnancům vyšší odměny jen kvůli věku.
+
 ### 4. Právo na dovolenou
-Zaměstnanec má podle § 211–223 nárok na alespoň čtyři týdny dovolené za rok [[1](#1)].
+Zaměstnanec má podle § 211–223 nárok na alespoň čtyři týdny dovolené za rok [[1](#1)]. Tento nárok platí i pro DPP/DPČ, pokud byly splněny podmínky (80 hodin, 4 týdny) [[9](#9)].
+
+**Příklad:** Brigádník na DPP, který pracuje celý měsíc a splní hodinový limit, má právo na poměrnou část dovolené.
 
 ### 5. Právo na přestávky a odpočinek
-Po maximálně šesti hodinách práce má zaměstnanec nárok na přestávku, a také na nepřetržitý odpočinek mezi směnami [[1](#1)].
+Zaměstnanec má právo na:
+
+**Přestávky na jídlo a oddech:**
+- Dospělý – 30 minut po max. 6 hodinách práce
+- Mladistvý (do 18 let) – 30 minut po 4,5 hodinách práce [[1](#1)][[8](#8)]
+
+**Nepřetržitý denní odpočinek mezi směnami:**
+- Dospělý – min. 11 hodin během každých 24 hodin
+- Mladistvý – min. 12 hodin během každých 24 hodin [[1](#1)]
+
+**Nepřetržitý týdenní odpočinek:**
+- Dospělý – min. 35 hodin týdně
+- Mladistvý – min. 48 hodin týdně (2 dny po sobě jdoucí) [[1](#1)][[8](#8)]
+
+**Příklad:** Studující brigádník má přestávku už po 4,5 hodinách a mezi směnami musí mít alespoň 12 hodin odpočinku.
 
 ### 6. Ochrana osobních údajů a soukromí
-Zaměstnavatel nesmí zaměstnance sledovat bez důvodu a musí respektovat jejich soukromí i osobní data dle § 316 zákoníku práce a nařízení GDPR [[1](#1)][[7](#7)].
+Zaměstnavatel nesmí sledovat zaměstnance bezdůvodně a musí chránit jejich osobní údaje podle § 316 ZP a GDPR [[1](#1)][[7](#7)].
+
+**Příklad:** Zaměstnavatel nesmí bezdůvodně kontrolovat e-maily zaměstnance.
 
 ## Povinnosti zaměstnance
 
-Povinnosti zaměstnance jsou zakotveny především v § 301–304 zákoníku práce [[1](#1)].
-
 ### 1. Plnění pracovní smlouvy
-Zaměstnanec musí vykonávat práci osobně, svědomitě a podle pokynů nadřízeného.
+Zaměstnanec musí vykonávat práci osobně, svědomitě a podle pokynů (§ 38, § 301) [[1](#1)]. Povinnosti se vztahují i na DPP/DPČ dle povahy činnosti [[9](#9)].
+
+**Příklad:** Pokud máte dohodu na úklid, nelze odmítat úkoly s tím spojené.
 
 ### 2. Docházka a pracovní doba
-Zaměstnanec je povinen dodržovat stanovenou pracovní dobu a omlouvat nepřítomnost [[1](#1)].
+Zaměstnanec je povinen dodržovat pracovní dobu a omlouvat nepřítomnost (§ 81, § 85) [[1](#1)]. U DPP/DPČ platí to, co je sjednáno v dohodě.
+
+**Příklad:** Při nemocenské u DPČ musí být splněn minimální výdělek, jinak nárok na dávky nevzniká [[9](#9)].
 
 ### 3. BOZP
-Zaměstnanec má povinnost dodržovat bezpečnostní a hygienické předpisy, účastnit se školení a neohrožovat sebe ani kolegy [[1](#1)].
+Zaměstnanec je povinen dodržovat bezpečnostní předpisy a neohrožovat zdraví (§ 106) [[1](#1)].
+
+**Příklad:** Při práci s elektrickým nářadím musíte mít školení a ochranné pomůcky.
 
 ### 4. Ochrana majetku a informací
-Zaměstnanec je odpovědný za svěřený majetek a nesmí vynášet interní informace [[1](#1)].
+Zaměstnanec musí chránit majetek zaměstnavatele a nešířit interní informace (§ 301 písm. d)) [[1](#1)].
+
+**Příklad:** Nesmíte používat pracovní nářadí pro osobní účely bez svolení.
 
 ### 5. Mlčenlivost
-Zaměstnanec je vázán mlčenlivostí i po skončení pracovního poměru [[1](#1)].
+Zaměstnanec musí zachovávat mlčenlivost i po ukončení pracovního poměru (§ 310) [[1](#1)].
 
-### 6. Loajalita
-Zaměstnanec nesmí pracovat pro konkurenci ani poškodit jméno zaměstnavatele [[8](#8)].
+**Příklad:** Po odchodu z firmy nesmíte šířit důvěrné obchodní informace.
 
 ## Praktická aplikace
 
-Při porušení povinností hrozí zaměstnanci výtka nebo výpověď podle § 52 zákoníku práce [[1](#1)]. Zaměstnavatel může být sankcionován dle zákona o inspekci práce [[4](#4)].
+Porušení povinností může vést k výtce, nebo výpovědi dle § 52 ZP [[1](#1)]. Zaměstnavatel může být kontrolován a sankcionován inspekcí práce [[4](#4)].
+
+**Příklad:** Neomluvené absence = výpověď. Nezajistěné přestávky = pokuta zaměstnavateli.
 
 ## Závěr
 
-Znalost práv a povinností vede ke zdravému pracovnímu prostředí, důvěře a prevenci problémů [[1](#1)][[5](#5)].
+Znalost pracovních práv a povinností není jen o dodržování pravidel, ale o respektu – ke své práci, ke kolegům i k firmě. Práva dávají zaměstnanci jistotu a ochranu, povinnosti pak zajišťují řád a odpovědnost. Čím lépe se orientujeme ve svých právech i závazcích, tím hladší a férovější bude každodenní spolupráce.
 
 ---
 
 ## Použité zdroje
 
-<a id="1"></a> [1] Zákon č. 262/2006 Sb., zákoník práce: https://www.zakonyprolidi.cz/cs/2006-262  
-<a id="2"></a> [2] Zákon č. 89/2012 Sb., občanský zákoník: https://www.zakonyprolidi.cz/cs/2012-89  
-<a id="3"></a> [3] Zákon č. 435/2004 Sb., o zaměstnanosti: https://www.zakonyprolidi.cz/cs/2004-435  
-<a id="4"></a> [4] Zákon č. 251/2005 Sb., o inspekci práce: https://www.zakonyprolidi.cz/cs/2005-251  
-<a id="5"></a> [5] Listina základních práv a svobod: https://www.zakonyprolidi.cz/cs/1993-2  
-<a id="6"></a> [6] Zákon č. 198/2009 Sb., antidiskriminační zákon: https://www.zakonyprolidi.cz/cs/2009-198  
-<a id="7"></a> [7] GDPR – český výklad: https://www.uoou.cz/gdpr-obecne-narizeni/ds-3938  
-<a id="8"></a> [8] Rozhodnutí NS ČR 21 Cdo 2466/2016: https://www.nsoud.cz/Judikatura/ns_web.nsf/WebSearch/5ADDA7D75A2E5E39C125800B0047EBB5?openDocument
+<a id="1"></a>**[1]** Zákon č. 262/2006 Sb., zákoník práce.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/2006-262](https://www.zakonyprolidi.cz/cs/2006-262)
 
+<a id="2"></a>**[2]** Zákon č. 89/2012 Sb., občanský zákoník.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/2012-89](https://www.zakonyprolidi.cz/cs/2012-89)
+
+<a id="3"></a>**[3]** Zákon č. 435/2004 Sb., o zaměstnanosti.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/2004-435](https://www.zakonyprolidi.cz/cs/2004-435)
+
+<a id="4"></a>**[4]** Zákon č. 251/2005 Sb., o inspekci práce.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/2005-251](https://www.zakonyprolidi.cz/cs/2005-251)
+
+<a id="5"></a>**[5]** Listina základních práv a svobod.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/1993-2](https://www.zakonyprolidi.cz/cs/1993-2)
+
+<a id="6"></a>**[6]** Antidiskriminační zákon č. 198/2009 Sb.  
+Dostupné z: [https://www.zakonyprolidi.cz/cs/2009-198](https://www.zakonyprolidi.cz/cs/2009-198)
+
+<a id="7"></a>**[7]** ÚOOÚ – GDPR výklad.  
+Dostupné z: [https://www.uoou.cz/gdpr-obecne-narizeni/ds-3938](https://www.uoou.cz/gdpr-obecne-narizeni/ds-3938)
+
+<a id="8"></a>**[8]** MPSV – Zaměstnávání mladistvých.  
+Dostupné z: [https://www.mpsv.cz/web/cz/zamestnavani-mladistvych](https://www.mpsv.cz/web/cz/zamestnavani-mladistvych)
+
+<a id="9"></a>**[9]** MPSV – Dovolená při DPP a DPČ.  
+Dostupné z: [https://www.mpsv.cz/web/cz/dovolena-pri-dpp-dpc](https://www.mpsv.cz/web/cz/dovolena-pri-dpp-dpc)
 
 
 ## Práva a povinnosti zaměstnavatele
