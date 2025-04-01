@@ -22,7 +22,7 @@ ahoj
 - povinnou součástí dohoda o:
     - druhu práce
     - místě výkonu
-    - dnu násupu
+    - dnu nástupu
 
 ### Zkušební doba
 - maximální délka:
