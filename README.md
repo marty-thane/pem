@@ -58,7 +58,7 @@ Pracovní týdenní doba je zkrácena na 37,5 hodiny:
 
 Zákon nezakazuje mít dva hlavní pracovní poměry. Pokud jde o práci v obdobném oboru, je potřeba souhlas obou zaměstnavatelů. V pracovní smlouvě však může být stanovena konkurenční doložka omezující možnosti práce pro konkurenční firmy. [^3]
 
-**Zkrácený (částěčný) úvazek** [^4]
+**Zkrácený (částečný) úvazek** [^4]
 
 Zahrnuje různé varianty snížení plného úvazku (např. poloviční, třetinový, čtvrtinový apod.). Mzda odpovídá kratší pracovní době.
 Zaměstnanec má stejná práva i povinnosti jako při plném úvazku.
@@ -75,9 +75,9 @@ Za hlavní pracovní činnost se považuje:
 Obvykle realizován v podobě DPČ, DPP.
 
 #### Externí spolupráce (outsourcing) [^5]
-Uzavření smlouvy o sloupráci (či smlouvy o dílo) s OSVČ, freelancery nebo jinými podnikatelskými subjekty. V praxi se často setkáme např. s externími účetními, IT specialisty nebo marketingovými pracovníky.
+Uzavření smlouvy o spolupráci (či smlouvy o dílo) s OSVČ, freelancery nebo jinými podnikatelskými subjekty. V praxi se často setkáme např. s externími účetními, IT specialisty nebo marketingovými pracovníky.
 
-Za externí pracovníky zaměstnavatel neplatí zdravotní a sociální pojištění, nevstahuje se na ně výpovědní lhůta, nemocenská ani dovolená.
+Za externí pracovníky zaměstnavatel neplatí zdravotní a sociální pojištění, nevztahuje se na ně výpovědní lhůta, nemocenská ani dovolená.
 
 Některé firmy takto zaměstnávají dlouhodobé pracovníky, jedná se o nelegální praktiku nazývající se švarcsystém.
 
@@ -119,7 +119,7 @@ Pracovní poměr může být sjednán na:
 Pokud není ve smlouvě výslovně uvedeno, že je pracovní poměr sjednán na dobu určitou, jedná se o pracovní poměr na dobu neurčitou.
 
 ### Změna pracovního poměru [^6] [^8]
-Změna pracovní smlouvy je možná dohodou obou stran (dohoda zaměstnance i zaměstnavatele) a to písemnou fromou. V určitých případech může dojít k jednostrannému právnímu jednání zaměstnavatele po předchozím informování zaměstnance.
+Změna pracovní smlouvy je možná dohodou obou stran (dohoda zaměstnance i zaměstnavatele) a to písemnou formou. V určitých případech může dojít k jednostrannému právnímu jednání zaměstnavatele po předchozím informování zaměstnance.
 
 Za změnu v pracovním poměru se považuje:
 * jmenovaní na vedoucí pozici (až po vzniku pracovního poměru),
@@ -136,7 +136,7 @@ Po odvolání z vedoucího pracovního místa se zaměstnanec nevrací na původ
 
 **Převedení zaměstnance na jinou práci**
 
-Z důvodů zdravotních, trestněprávnícha a pracovněprávních lze tak učinit bez souhlasu zaměstnance. Z důvodu objektivní překážky už souhlas potřeba je. Zaměstnavatel však musí zohledňovat zdravotní stav, kvalifikaci a schopnosti zaměstnance. 
+Z důvodů zdravotních, trestněprávních a pracovněprávních lze tak učinit bez souhlasu zaměstnance. Z důvodu objektivní překážky už souhlas potřeba je. Zaměstnavatel však musí zohledňovat zdravotní stav, kvalifikaci a schopnosti zaměstnance. 
 
 **Přeložení zaměstnance**
 
@@ -229,3 +229,6 @@ Zaměstnanec nesmí u téhož zaměstnavatele v dalším pracovněprávním vzta
 ## Práva a povinnosti zaměstnavatele
 
 ## Kahoot
+1. Je pracovní cesta považována za změnu pracovního poměru? Ano
+2. Jakou délku má výpovědní doba? 2 měsíce
+3. Co nepatří mezi povinné stanovy pracovní smlouvy? Dohoda o: (druhu práce | mzdě | dnu nástupu | místě výkonu);  Správná odpověď: dohoda o mzdě
