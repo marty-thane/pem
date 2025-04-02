@@ -1,227 +1,157 @@
 ---
 title: "Úvod do pracovního práva"
-author: ["Martin Zeman", "Jakub Novák", "Rostislav Pilík", "Laila Machová"]
+author: [L. Machová, J. Novák, R. Pilík, M. Zeman]
+theme: Rochester
 ---
 
-# O pracovním právu obecně
-
-Právo tradičně rozdělujeme na veřejné a soukromé. Pracovní právo se nachází na pomezí – řeší vztahy mezi zaměstnanci, zaměstnavateli, jejich zástupci a také orgány.
-
----
+Hlavními prameny pracovního práva v ČR jsou **Zákoník práce**, **Zákon o kolektivním vyjednávání** a **Zákon o zaměstnanosti**.
 
 # Pracovní smlouva
 
-- Pracovně právní smlouva musí být **vždy písemná**.
-- Povinnými stanovy jsou:
+- pracovně právní smlouva musí být **vždy písemná**
+- povinnými stanovy jsou:
   - náplň práce
   - místo výkonu
   - datum nástupu
+- smlouvu lze sjednat na dobu **určitou** nebo **neurčitou**
 
----
+# Pracovní smlouva
 
-# Zkušební doba
-
-- Pokud je sjednána zkušební doba, nesmí být delší než:
+- pokud je sjednána zkušební doba, nesmí být delší než:
   - **3 měsíce** pro běžné pozice
   - **6 měsíců** pro vedoucí pozice
+- smlouvu lze podepsat od **15 let**, pro vedoucí pozice od **18 let**
 
----
+# Pracovní poměr -- dělení
 
-# Podepsání smlouvy
+- **hlavní** -- plný úvazek, pracovní doba 40 hodin týdně
+- **vedlejší** -- obvykle DPP, DPČ
+- **externí spolupráce** (*outsourcing*)
 
-- Podepsání smlouvy je **dobrovolné**.
-- Mladistvý může smlouvu podepsat od **15 let**.
-- Pro vedoucí pozice je věková hranice **18 let**.
+# Pracovní poměr -- změna
 
----
+za **změnu** se považuje:
 
-# Hlavní prameny pracovního práva v ČR
+- jmenování na vedoucí pozici (po vzniku pracovního poměru)
+- převedení na jinou práci
+- přeložení
+- pracovní cesta
+- dočasné přidělení (k jinému zaměstnavateli)
 
-- **Zákoník práce**
-- **Zákon o kolektivním vyjednávání**
-- **Zákon o zaměstnanosti**
+# Pracovní poměr -- ukončení
 
-# Pracovní poměr
+pracovní poměr **zaniká** při:
 
-## Druhy pracovních poměrů
-- Hlavní -- plný úvazek, pracovní doba 40 hodin týdně
-- Vedlejší -- obvykle DPP, DPČ
-- Externí spolupráce (outsourcing)
+- uplynutí sjednané určité doby
+- smrti zaměstnance
 
----
+lze ho také **rozvázat**:
 
-## Vznik pracovního poměru
-### Pracovní smlouva
-- vždy v písemné formě
-- povinnou součástí dohoda o:
-    - druhu práce
-    - místě výkonu
-    - dnu nástupu
-
-### Zkušební doba
-- maximální délka:
-    - 3 měsíce pro běžné pozice
-    - 6 měsíců pro vedoucí pozice
-
-### Trvání pracovního poměru
-- sjednání pracovního poměru na:
-    - dobu určitou
-    - dobu neurčitou
-
----
-
-## Změna pracovního poměru
-- Za změnu se považuje:
-    - jmenování na vedoucí pozici (až po vzniku pracovního poměru),
-    - převedení na jinou práci,
-    - přeložení,
-    - pracovní cesta,
-    - dočasné přidělení (k jinému zaměstnavateli).
-
----
-
-## Ukončení pracovního poměru
-- zánik pracovního poměru:
-    - uplynutím sjednané určité doby
-    - smrtí zaměstnance
-
-- způsoby rozvázání pracovního poměru:
-    - dvoustanně
-        - dohodou
-    - jednostranně zaměstnavatelem nebo zaměstnancem
-        - výpovědí
-        - okamžitým zrušením
-        - zrušením ve zkušební době
-
----
+- dvoustranně -- dohodou
+- jednostranně zaměstnancem nebo zaměstnavatelem
+  - výpovědí
+  - okamžitým zrušením
+  - zrušením ve zkušební době
 
 # DPP, DPČ
 
-- Hodiny odpracované v rámci různých dohod se v rámci jednoho zaměstnavatele sčítají.
-- **DPP** i **DPČ** lze ukončit **bez udání důvodu**.
-- Minimální výše odměny je stejná jako **minimální mzda**.
-- Novinky od **ledna 2024**:
-  - Zaměstnanec na dohodu má nárok na:
-    - **dovolenou**
-    - **příplatky za práci v noci, o víkendu nebo o svátcích**
+- lze ukončit i **bez udání důvodu**
+- minimální výše odměny je stejná jako **minimální mzda**.
+- původně bez nároku na dovolenou a příplatky (změna od ledna 2024)
 
----
+# DPP
 
-# DPP - Dohoda o provedení práce
+- maximálně **300 hodin ročně**
+- SZP se odvádí u příjmů nad **11 500 Kč/měsíc**
 
-- Na **DPP** může zaměstnanec odpracovat maximálně **300 hodin ročně**.  
-- Sociální a zdravotní pojištění se odvádí u příjmů nad **11 500 Kč/měsíc**.
+# DPČ
 
----
+- maximálně **20 hodin týdně**
+- SZP se odvádí u příjmů nad **4 500 Kč/týden**
+- nejdéle lze sjednat na **52 týdnů**
 
-# DPČ - Dohoda o pracovní činnosti
+# Práva zaměstnance
 
-- Na **DPČ** může zaměstnanec odpracovat maximálně **20 hodin týdně**.  
-- Sociální a zdravotní pojištění se odvádí u příjmů nad **4 500 Kč/měsíc**.
-- **DPČ** lze uzavřít **nejdéle na 52 týdnů**. [^4]
+## 1. Právo na mzdu  
 
----
+za práci nesmí být mzda nižší než minimální
 
-# Práva a povinnosti zaměstnance  
-### Podle zákoníku práce
+## 2. Právo na bezpečné pracoviště  
 
----
+bezpečné prostředí dle BOZP
 
-## Právní rámec
+## 3. Ochrana před diskriminací  
 
-- Zákon č. 262/2006 Sb., zákoník práce  
-- Zákon č. 89/2012 Sb., občanský zákoník  
-- Zákon č. 435/2004 Sb., o zaměstnanosti  
-- Listina základních práv a svobod
+zákaz diskriminace dle pohlaví, věku, rasy apod.
 
----
+# Práva zaměstnance
 
-## Práva zaměstnance (1)
+## 4. Právo na dovolenou  
 
-### 1. Právo na mzdu  
-Za práci nesmí být mzda nižší než minimální.
+min. 4 týdny ročně
 
-### 2. Právo na bezpečné pracoviště  
-Bezpečné prostředí dle BOZP.
+## 5. Právo na přestávky a odpočinek  
 
-### 3. Ochrana před diskriminací  
-Zákaz diskriminace dle pohlaví, věku, rasy atd.
-
----
-
-## Práva zaměstnance (2)
-
-### 4. Právo na dovolenou  
-Min. 4 týdny ročně.
-
-### 5. Právo na přestávky a odpočinek  
 30 min po 6 hod, týdenní odpočinek 35/48 hod.
 
-### 6. Ochrana soukromí a údajů  
-Bez sledování, dle GDPR.
+## 6. Ochrana soukromí a údajů  
 
----
+bez sledování, dle GDPR
 
-## Povinnosti zaměstnance (1)
+# Povinnosti zaměstnance
 
-### 1. Plnění pracovní smlouvy  
-Podle pokynů a osobně.
+## 1. Plnění pracovní smlouvy  
+podle pokynů a osobně
 
-### 2. Docházka  
-Přítomnost dle pracovní doby.
+## 2. Docházka  
+přítomnost dle pracovní doby
 
-### 3. BOZP  
-Dodržování bezpečnostních pravidel.
+## 3. BOZP  
+dodržování bezpečnostních pravidel
 
----
+# Povinnosti zaměstnance
 
-## Povinnosti zaměstnance (2)
+## 4. Ochrana majetku  
+neporušovat zařízení, data
 
-### 4. Ochrana majetku  
-Neporušovat zařízení, data.
+## 5. Mlčenlivost  
+o vnitřních informacích
 
-### 5. Mlčenlivost  
-O vnitřních informacích.
+## 6. Loajalita  
+nepůsobit škodu, nepracovat pro konkurenci
 
-### 6. Loajalita  
-Nepůsobit škodu, nepracovat pro konkurenci.
+# Práva zaměstnavatele
 
----
+## 1. Řídit a organizovat práci
 
-## Praktická aplikace a kontrola
+## 2. Kontrolovat práci zaměstnanců
 
-- Možnost obrátit se na inspektorát práce  
-- Výpověď při opakovaném porušování kázně  
-- Sankce zaměstnavateli za porušení práv
+## 3. Stanovit vnitřní pravidla
 
----
+## 4. Požadovat náhradu škody
 
-## Shrnutí
+# Práva zaměstnavatele
 
-- Práva a povinnosti se vzájemně doplňují  
-- Znalost práv chrání zaměstnance  
-- Pravidla zlepšují firemní kulturu
+## 5. Vykázat zaměstnance z pracoviště
 
----
+## 6. Přidělovat a měnit pracovní úkoly
 
-# Práva a povinnosti zaměstnavatele
+## 7. Požadovat disciplínu a dodržování pravidel
 
-1. Práva zaměstnavatele
+# Povinnosti zaměstnavatele
 
-- Řídit a organizovat práci
-- Kontrolovat práci zaměstnanců
-- Stanovit vnitřní pravidla
-- Požadovat náhradu škody
-- Vykázat zaměstnance z pracoviště
-- Přidělovat a měnit pracovní úkoly
-- Požadovat disciplínu a dodržování pravidel
+## 1. Dodržovat pracovněprávní předpisy
 
-2. Povinnosti zaměstnavatele
+## 2. Zajistit bezpečnost a ochranu zdraví při práci
 
-- Dodržovat pracovněprávní předpisy
-- Zajistit bezpečnost a ochranu zdraví při práci
-- Vést evidenci pracovní doby
-- Respektovat rovné zacházení a zákaz diskriminace
-- Vyplácet mzdu včas a v plné výši
-- Informovat zaměstnance o změnách v pracovních podmínkách
-- Vyplatit odstupné 
+## 3. Vést evidenci pracovní doby
+
+## 4. Respektovat rovné zacházení a zákaz diskriminace
+
+# Povinnosti zaměstnavatele
+
+## 5. Vyplácet mzdu včas a v plné výši
+
+## 6. Informovat zaměstnance o změnách v pracovních podmínkách
+
+## 7. Vyplatit odstupné
