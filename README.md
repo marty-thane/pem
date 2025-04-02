@@ -376,7 +376,6 @@ Dostupné z: [https://www.mpsv.cz/web/cz/dovolena-pri-dpp-dpc](https://www.mpsv.
 - Řídit a organizovat práci
 - Kontrolovat práci zaměstnanců
 - Stanovit vnitřní pravidla
-- Ukončit pracovní poměr
 - Požadovat náhradu škody
 - Vykázat zaměstnance z pracoviště
 - Přidělovat a měnit pracovní úkoly
@@ -386,12 +385,10 @@ Dostupné z: [https://www.mpsv.cz/web/cz/dovolena-pri-dpp-dpc](https://www.mpsv.
 
 - Dodržovat pracovněprávní předpisy
 - Zajistit bezpečnost a ochranu zdraví při práci
+- Vést evidenci pracovní doby
 - Respektovat rovné zacházení a zákaz diskriminace
 - Vyplácet mzdu včas a v plné výši
-- Poskytovat přestávky na jídlo a oddech
-- Poskytnout zaměstnanci dovolenou
 - Informovat zaměstnance o změnách v pracovních podmínkách
-- Vést evidenci pracovní doby
 - Vyplatit odstupné 
 
 3. Zdroje 
