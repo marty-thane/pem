@@ -155,3 +155,7 @@ nepůsobit škodu, nepracovat pro konkurenci
 ## 6. Informovat zaměstnance o změnách v pracovních podmínkách
 
 ## 7. Vyplatit odstupné
+
+# 
+
+Děkujeme za pozornost.
