@@ -6,7 +6,13 @@ theme: Rochester
 
 Hlavními prameny pracovního práva v ČR jsou **Zákoník práce**, **Zákon o kolektivním vyjednávání** a **Zákon o zaměstnanosti**.
 
-# Pracovní smlouva
+# Pracovní poměr -- dělení
+
+- **hlavní** -- plný úvazek, pracovní doba 40 hodin týdně
+- **vedlejší** -- obvykle DPP, DPČ
+- **externí spolupráce** (*outsourcing*)
+
+# Pracovní poměr -- vznik
 
 - pracovně právní smlouva musí být **vždy písemná**
 - povinnými stanovy jsou:
@@ -15,18 +21,12 @@ Hlavními prameny pracovního práva v ČR jsou **Zákoník práce**, **Zákon o
   - datum nástupu
 - smlouvu lze sjednat na dobu **určitou** nebo **neurčitou**
 
-# Pracovní smlouva
+# Pracovní poměr -- vznik
 
 - pokud je sjednána zkušební doba, nesmí být delší než:
   - **3 měsíce** pro běžné pozice
   - **6 měsíců** pro vedoucí pozice
 - smlouvu lze podepsat od **15 let**, pro vedoucí pozice od **18 let**
-
-# Pracovní poměr -- dělení
-
-- **hlavní** -- plný úvazek, pracovní doba 40 hodin týdně
-- **vedlejší** -- obvykle DPP, DPČ
-- **externí spolupráce** (*outsourcing*)
 
 # Pracovní poměr -- změna
 
